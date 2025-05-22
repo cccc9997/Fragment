@@ -1,5 +1,5 @@
 
-# Fragments by E2B
+# Fragments
 
 Fragments is an open-source platform inspired by apps like Anthropic's Claude Artifacts, Vercel v0, and GPT Engineer. It enables you to build, run, and interact with AI-generated code in secure sandboxes, supporting multiple programming stacks and LLM providers.
 
